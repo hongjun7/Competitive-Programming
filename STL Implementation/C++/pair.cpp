@@ -7,7 +7,6 @@ public:
 	pii(int a, int b) : a(a), b(b) {}
 	bool operator<(const pii &y)const{
 		if (a != y.a) return a < y.a;
-		else return b < y.b;
-
+		return b < y.b;
 	}
 };
