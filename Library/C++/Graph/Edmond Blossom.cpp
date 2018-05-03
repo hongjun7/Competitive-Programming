@@ -119,7 +119,6 @@ namespace Blossom {
 	}
 	vector <pii> solve() {
 		vector <pii> con;
-		con.clear();
 		if (E == 0) return con;
 		int ret = edmonds();
 		rep(i, V) if (i < match[i]) con.emplace_back(i + 1, match[i] + 1);
