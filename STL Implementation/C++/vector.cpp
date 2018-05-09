@@ -18,7 +18,7 @@ public:
 		}
 		arr[sz++] = a;
 	}
-	T pop_back() { return arr[sz--]; }
+	void pop_back() { if (sz) sz--; }
 	int size() { return sz; }
 	bool empty() { return sz == 0; }
 	void clear() { sz = 0; }
