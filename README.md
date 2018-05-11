@@ -8,3 +8,4 @@ Resources for Competitive Programming
 * https://github.com/wookayin/teamnote
 * https://github.com/jaehyunp/stanfordacm
 * https://github.com/albusmath/acm-icpc-template
+* https://github.com/tzupengwang/PECaveros
