@@ -1,6 +1,8 @@
 # Competitive-Programming
 Resources for Competitive Programming
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Reference
 * https://e-maxx-eng.appspot.com/
 * https://github.com/kcm1700/algorithms
