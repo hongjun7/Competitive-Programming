@@ -11,3 +11,4 @@ Resources for Competitive Programming
 * https://github.com/jaehyunp/stanfordacm
 * https://github.com/albusmath/acm-icpc-template
 * https://github.com/tzupengwang/PECaveros
+* https://github.com/EgorKulikov/rust_algo
